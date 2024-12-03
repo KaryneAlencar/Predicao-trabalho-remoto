@@ -45,5 +45,8 @@
    ```bash
    pip install pandas matplotlib seaborn scikit-learn
 
+3. Abra o arquivo projeto3.ipynb em um ambiente Jupyter para explorar a análise completa.
+   
+
 ## **Conclusões**
 Este projeto identificou que o nível de instrução, o grupamento ocupacional e o rendimento mensal são os fatores mais determinantes para a elegibilidade ao trabalho remoto. Os modelos desenvolvidos oferecem suporte à formulação de políticas públicas e decisões empresariais, promovendo um mercado de trabalho mais inclusivo e adaptado às transformações digitais.
