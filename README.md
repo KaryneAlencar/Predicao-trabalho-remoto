@@ -24,7 +24,7 @@
 ## **Resultados**
 
 ### **1. Regressão Logística**
-- **Acurácia**: 98%.
+- **Acurácia**: 86.4%.
 - **Fatores Relevantes**:
   - Nível de instrução aumenta significativamente a probabilidade de trabalho remoto.
   - Ocupações administrativas possuem maior elegibilidade.
